@@ -1,2 +1,2 @@
 # Cocina
-Cosina paso a paso
+Cocina paso a paso
